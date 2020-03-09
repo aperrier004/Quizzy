@@ -1,0 +1,2 @@
+insert into xx values
+();
