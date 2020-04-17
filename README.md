@@ -1,2 +1,2 @@
 # Quizzy
-First year Web Programming Project at the ENSC by BINET Coline and PERRIER Alban
+Projet de programmation web en première année à l'ensc par BINET Coline et PERRIER Alban
